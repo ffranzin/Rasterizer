@@ -1,0 +1,17 @@
+﻿  Rasterizer.cpp
+C:\Users\Flavio\Documents\Rasterizer\Rasterizer\Rasterizer.cpp(58,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Flavio\Documents\Rasterizer\Rasterizer\Rasterizer.cpp(150,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Flavio\Documents\Rasterizer\Rasterizer\Rasterizer.cpp(164,99): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+C:\Users\Flavio\Documents\Rasterizer\Rasterizer\Rasterizer.cpp(164,65): warning C4244: 'argument': conversion from 'double' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+C:\Users\Flavio\Documents\Rasterizer\Rasterizer\Rasterizer.cpp(170,61): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Flavio\Documents\Rasterizer\Rasterizer\Rasterizer.cpp(170,51): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Flavio\Documents\Rasterizer\Rasterizer\Rasterizer.cpp(170,40): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+  Rasterizer.vcxproj -> C:\Users\Flavio\Documents\Rasterizer\Debug\Rasterizer.exe
